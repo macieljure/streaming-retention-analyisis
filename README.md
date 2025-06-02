@@ -1,4 +1,4 @@
-# streaming-retention-analyisis
+# streaming-retention-analysis
 Streaming user behavior analysis project for retention patterns
 
 # Project Title: Streaming Retention Analysis
